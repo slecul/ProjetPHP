@@ -1,0 +1,87 @@
+body {
+    margin-top: 75px;
+    background-image: url(assets/img/casque.png);
+    background-size: cover;
+    /*opacity: 0.1;*/
+}
+
+nav {
+    background-color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #dc602e;
+}
+
+.text-center {
+    color: #c6c7c4 !important;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+.btn{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.form{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.titleQuotation{
+    text-align: center;
+    font-size: 2rem;
+}
+.subtitleQuotation{
+    /*margin-left:45rem;*/
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+
+}
+iframe{
+    margin-bottom: 3rem;
+}
+label{
+    margin-top: 1rem;
+    font-weight: bold;
+}
+/*page 2*/
+.h2{
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 3rem !important;
+    color: #c6c7c4;
+}
+.h3{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2rem !important;
+    color: #cde77f;
+
+}
+.textPresentation{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    font-weight: 600; !important
+        color: #cde77f;
+
+}
+.description{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.listJob{
+    list-style-type: none;
+    font-size: 1.2rem;
+    /*margin-left: 45rem;*/
+}
+.listJob2{
+    margin-left: 2rem;
+    list-style-type: decimal;
+    font-size: 1.2rem;
+}
+.textPage2{
+    margin-top: 3rem;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
