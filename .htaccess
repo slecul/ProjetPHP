@@ -1,0 +1,9 @@
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^0.html$ index.php [L]
+RewriteRule ^1.html$ index.php?1 [L]
+RewriteRule ^2.html$ index.php?2 [L]
+RewriteRule ^3.html$ index.php?3 [L]
+RewriteRule ^4.html$ index.php?4 [L]
+RewriteRule ^contact-devis$ index.php?4 [L]

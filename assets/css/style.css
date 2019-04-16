@@ -1,0 +1,9 @@
+.nav-link:hover {
+   color: black;
+   outline : none;
+}
+
+.nav-selected{
+   font-weight: bold;
+   outline: none;
+}
